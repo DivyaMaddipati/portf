@@ -1,13 +1,15 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "nukaraju-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://nukaraju-neradabilli.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@mui/icons-material": "^5.11.16",
     "@mui/lab": "^5.0.0-alpha.130",
     "@mui/material": "^5.13.1",

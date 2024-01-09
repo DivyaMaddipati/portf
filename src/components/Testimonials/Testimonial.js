@@ -25,7 +25,7 @@ margin-top: 20px;
                 {/* Review cards */}
                 <div className="card">
                     <img src={me} alt="description_of_your_image" />
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sapiente nobis asperiores iusto ex, quis aliquam eveniet aspernatur debitis esse maxime tempore deserunt velit vitae odio excepturi fugiat quos recusandae?</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sapiente o ex, quis aliquam eveniet aspernatur debitis esse maxime tempore deserunt velit vitae odio excepturi fugiat quos recusandae?</p>
                     <i className="fa fa-quote-left"></i>
                 </div>
 
@@ -33,12 +33,12 @@ margin-top: 20px;
                 {/* ... */}
                 <div className="card">
                     <img src={me} alt="description_of_your_image" />
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sapiente nobis asperiores iusto ex, quis aliquam eveniet aspernatur debitis esse maxime tempore deserunt velit vitae odio excepturi fugiat quos recusandae?</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sapiente o ex, quis aliquam eveniet aspernatur debitis esse maxime tempore deserunt velit vitae odio excepturi fugiat quos recusandae?</p>
                     <i className="fa fa-quote-left"></i>
                 </div>
                 <div className="card">
                     <img src={me} alt="description_of_your_image" />
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sapiente nobis asperiores iusto ex, quis aliquam eveniet aspernatur debitis esse maxime tempore deserunt velit vitae odio excepturi fugiat quos recusandae?</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sapiente o ex, quis aliquam eveniet aspernatur debitis esse maxime tempore deserunt velit vitae odio excepturi fugiat quos recusandae?</p>
                     <i className="fa fa-quote-left"></i>
                 </div>
             </div>
